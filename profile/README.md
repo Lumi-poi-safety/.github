@@ -1,4 +1,4 @@
-# <img src="assets/lumi_logo.png" alt="Lumi" height="42"> Lumi
+# <img src="assets/Lumi_logo.png" alt="Lumi" height="42"> Lumi
 
 **Safety, illuminated.**
 
