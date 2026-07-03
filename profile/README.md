@@ -28,6 +28,12 @@ The goal is **not to decide for the user**, but to provide recommendations toget
 
 ## Architecture
 
+<p align="center">
+  <img src="assets/lumi_architecture.svg" alt="Lumi architecture diagram" width="720">
+</p>
+
+## Architecture
+
 ```
                 ┌────────────────────┐
                 │    Flutter App     │
