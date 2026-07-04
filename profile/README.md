@@ -2,6 +2,10 @@
 
 **Safety, illuminated.**
 
+[![Android Demo](https://img.shields.io/badge/Try-Android%20APK-4CC9F0?style=for-the-badge)]([APK_LINK](https://drive.google.com/file/d/1KIxzQ7WzAbb1HnWteYhRWlUvTsUHNJ6g/view?usp=sharing))
+
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-FF0000?style=for-the-badge)]([VIDEO_LINK](https://youtube.com/shorts/hAw4fHYh_-Q))
+
 Lumi is a research-driven mobile application that helps people discover places while incorporating **crime awareness** into the recommendation process.
 
 Unlike traditional location-based recommendation systems that primarily optimize for popularity or proximity, Lumi combines **user intent**, **visit context**, and **urban safety information** to recommend places that better match the user's needs.
