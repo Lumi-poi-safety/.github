@@ -2,7 +2,7 @@
 
 **Safety, illuminated.**
 
-[![Android Demo](https://img.shields.io/badge/Try-Android%20APK-4CC9F0?style=for-the-badge)]([APK_LINK](https://drive.google.com/file/d/1KIxzQ7WzAbb1HnWteYhRWlUvTsUHNJ6g/view?usp=sharing))
+[![Android Demo](https://img.shields.io/badge/Try-Android%20APK-4CC9F0?style=for-the-badge)](https://drive.google.com/file/d/1KIxzQ7WzAbb1HnWteYhRWlUvTsUHNJ6g/view?usp=sharing)
 
 [![Watch Demo](https://img.shields.io/badge/Watch-Demo-FF0000?style=for-the-badge)]([VIDEO_LINK](https://youtube.com/shorts/hAw4fHYh_-Q))
 
