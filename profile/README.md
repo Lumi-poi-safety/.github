@@ -6,18 +6,6 @@
 
 **Safety, illuminated.**
 
-<h1 align="center">Lumi</h1>
-
-<p align="center">
-  <strong>Safety, illuminated.</strong><br>
-  LLM-Grounded Safety-Aware POI Recommendation in New York City
-</p>
-
-<p align="center">
-  [![Android Demo](https://img.shields.io/badge/Try-Android%20APK-4CC9F0?style=for-the-badge)](https://drive.google.com/file/d/1KIxzQ7WzAbb1HnWteYhRWlUvTsUHNJ6g/view?usp=sharing)
-
-  [![Watch Demo](https://img.shields.io/badge/Watch-Demo-FF0000?style=for-the-badge)](https://www.youtube.com/watch?v=RG4KSjkFink)
-</p>
 
 [![Android Demo](https://img.shields.io/badge/Try-Android%20APK-4CC9F0?style=for-the-badge)](https://drive.google.com/file/d/1KIxzQ7WzAbb1HnWteYhRWlUvTsUHNJ6g/view?usp=sharing)
 
