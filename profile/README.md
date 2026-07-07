@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="...">📱 Try the Demo</a> •
-  <a href="...">🎥 Watch Demo</a> •
-  <a href="...">📄 Project Report</a>
+  [![Android Demo](https://img.shields.io/badge/Try-Android%20APK-4CC9F0?style=for-the-badge)](https://drive.google.com/file/d/1KIxzQ7WzAbb1HnWteYhRWlUvTsUHNJ6g/view?usp=sharing)
+
+  [![Watch Demo](https://img.shields.io/badge/Watch-Demo-FF0000?style=for-the-badge)](https://www.youtube.com/watch?v=RG4KSjkFink)
 </p>
 
 [![Android Demo](https://img.shields.io/badge/Try-Android%20APK-4CC9F0?style=for-the-badge)](https://drive.google.com/file/d/1KIxzQ7WzAbb1HnWteYhRWlUvTsUHNJ6g/view?usp=sharing)
