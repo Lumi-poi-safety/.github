@@ -1,15 +1,20 @@
 <p align="center">
-  <img src="../assets/lumi_banner.png" alt="Lumi Banner" width="100%">
+  <img src="../assets/lumi_banner2.png" alt="Lumi Banner" width="100%">
 </p>
 
-# <img src="../assets/Lumi_logo.png" alt="Lumi" height="42"> Lumi
 
-**Safety, illuminated.**
+<p align="center">
+  <a href="https://drive.google.com/file/d/1KIxzQ7WzAbb1HnWteYhRWlUvTsUHNJ6g/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Try-Android%20APK-4CC9F0?style=for-the-badge" alt="Try Android APK">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=RG4KSjkFink">
+    <img src="https://img.shields.io/badge/Watch-Demo-FF0000?style=for-the-badge" alt="Watch Demo">
+  </a>
+</p>
 
 
-[![Android Demo](https://img.shields.io/badge/Try-Android%20APK-4CC9F0?style=for-the-badge)](https://drive.google.com/file/d/1KIxzQ7WzAbb1HnWteYhRWlUvTsUHNJ6g/view?usp=sharing)
 
-[![Watch Demo](https://img.shields.io/badge/Watch-Demo-FF0000?style=for-the-badge)](https://www.youtube.com/watch?v=RG4KSjkFink)
 
 Lumi is a research-driven mobile application that helps people discover places while incorporating **crime awareness** into the recommendation process.
 
