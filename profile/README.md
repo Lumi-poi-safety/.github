@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/lumi_banner.png" alt="Lumi Banner" width="100%">
+</p>
+
 # <img src="../assets/Lumi_logo.png" alt="Lumi" height="42"> Lumi
 
 **Safety, illuminated.**
