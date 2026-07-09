@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Try-Android%20APK-4CC9F0?style=for-the-badge" alt="Try Android APK">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=RG4KSjkFink">
+  <a href="https://youtu.be/RkjtQcYeMzw">
     <img src="https://img.shields.io/badge/Watch-Demo-FF0000?style=for-the-badge" alt="Watch Demo">
   </a>
 </p>
