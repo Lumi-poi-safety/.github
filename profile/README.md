@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/lumi_banner2.png" alt="Lumi Banner" width="100%">
+  <img src="../assets/lumi_banner4.png" alt="Lumi Banner" width="100%">
 </p>
 
 
